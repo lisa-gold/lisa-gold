@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 - Moscow, 2018
 ## Relevant courses
 - Python-developer, Hexlet
+- Frontend-developer, Tel-Ran
 - SQL, Stepik
