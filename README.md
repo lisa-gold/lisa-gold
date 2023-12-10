@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Education
-## Master:
+## Education
+### Master:
   HSE, Strategic Corporate Finance
   Moscow, 2020
-## Bachelor:
+### Bachelor:
 - MSU, Faculty of Economics
 - Moscow, 2018
