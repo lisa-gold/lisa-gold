@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **lisa-gold/lisa-gold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My tech stack
 ## Education
 ### Master:
-  HSE, Strategic Corporate Finance
-  Moscow, 2020
+- HSE, Strategic Corporate Finance
+- Moscow, 2020
 ### Bachelor:
 - MSU, Faculty of Economics
 - Moscow, 2018
+## Relevant courses:
+- Python-developer, Hexlet
+- SQL, Stepik
