@@ -28,6 +28,7 @@ Highly motivated and enthusiastic Junior Python-Developer with 4 plus years of e
 
 
 ## Education
+
 ### Master
 - HSE, Strategic Corporate Finance
 - Moscow, 2020
