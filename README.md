@@ -4,12 +4,11 @@ Hi 👋 My name is Elizaveta
 Python-Developer
 ----------------
 
-Highly motivated and enthusiastic Junior Python-Developer with 4 plus years of experience in finance is seeking an opportunity to contribute in institutions by implementing knowledge and methodologies learnt
+Highly motivated and enthusiastic Python-Developer with 4 plus years of experience in finance is seeking an opportunity to contribute in institutions by implementing knowledge and methodologies learnt
 
 * 🌍  I'm based in Netanya, Israel
 * ✉️  You can contact me at [lisagold9753@gmail.com](mailto:lisagold9753@gmail.com) or <a href="https://t.me/E_Gold" target="_blank">@E_Gold</a>
 * 🧠  I'm learning Python, JavaScript
-* <a href="https://lisa-gold.github.io/cv.github.io/" target="_blank">My CV</a>
 
 ### Skills
 
