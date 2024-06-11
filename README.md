@@ -1,14 +1,13 @@
 Hi 👋 My name is Elizaveta
 ===================================
 
-Python-Developer
+Full Stack Developer
 ----------------
 
-Highly motivated and enthusiastic Python-Developer with 4 plus years of experience in finance is seeking an opportunity to contribute in institutions by implementing knowledge and methodologies learnt
+I am a Full Stack / Back End Developer with 5+ years of experience. With a Master's degree in finance and expertise in Python, JS, Django and React, I'm dedicated to leveraging my expertise to drive positive change within institutions
 
 * 🌍  I'm based in Netanya, Israel
 * ✉️  You can contact me at [lisagold9753@gmail.com](mailto:lisagold9753@gmail.com) or <a href="https://t.me/E_Gold" target="_blank">@E_Gold</a>
-* 🧠  I'm learning Python, JavaScript
 
 ### Skills
 
@@ -26,7 +25,7 @@ Highly motivated and enthusiastic Python-Developer with 4 plus years of experien
 ## Education
 
 ### Master
-- HSE, Strategic Corporate Finance
+- HSE, School of Finance
 - Moscow, 2020
 ### Bachelor
 - MSU, Faculty of Economics
