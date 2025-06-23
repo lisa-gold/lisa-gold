@@ -4,8 +4,6 @@ Hi 👋 My name is Elizaveta
 Full Stack Developer
 ----------------
 
-I am a Full Stack / Back End Developer with 5+ years of experience. With a Master's degree in finance and expertise in Python, JS, Django and React, I'm dedicated to leveraging my expertise to drive positive change within institutions
-
 * 🌍  I'm based in Netanya, Israel
 * ✉️  You can contact me at [lisagold9753@gmail.com](mailto:lisagold9753@gmail.com) or <a href="https://t.me/E_Gold" target="_blank">@E_Gold</a>
 
@@ -30,7 +28,3 @@ I am a Full Stack / Back End Developer with 5+ years of experience. With a Maste
 ### Bachelor
 - MSU, Faculty of Economics
 - Moscow, 2018
-## Relevant courses
-- Python-developer, Hexlet
-- Frontend-developer, Tel-Ran
-- SQL, Stepik
